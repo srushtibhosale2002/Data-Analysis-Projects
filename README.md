@@ -37,15 +37,19 @@ Each project folder includes:
 
 ### 1. **Electronics Sales Analysis**
 - **Description**: Analyzes sales trends, profitability, and market demand for electronics.
-- **Tools**: Python (Matplotlib)
+- **Tools**: Python (Matplotlib,pandas, Seaborn), Jupyter Notebook
 - **Key Insights**: Seasonal trends, top-performing categories.
 
-### 3. **Zomato Rating Analysis**
+### 2. **Zomato Rating Analysis**
 - **Description**: Analyzed Zomato restaurant ratings to understand customer preferences, identify factors affecting ratings, and trends in popular cuisines or locations.
-- **Tools**:  Python (Pandas, Matplotlib, Seaborn).
+- **Tools**:  Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 - **Key Insights**: High ratings are linked to restaurant type, pricing, and customer reviews.
 Popular cuisines and high-rated restaurants are concentrated in specific locations.
 
+### 3. **Black Friday Data Analysis**
+- **Description**: Analyzed Black Friday sales data to identify customer purchasing patterns, popular product categories, and factors influencing spending behavior.
+- **Tools**: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
+- **Key Insights**: Young adults and urban customers tend to spend more during Black Friday.
 ---
 
 ## Setup and Installation
