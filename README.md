@@ -9,9 +9,6 @@ Welcome to my collection of data analysis projects! This repository showcases va
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
 - [Setup and Installation](#setup-and-installation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Project Overview
