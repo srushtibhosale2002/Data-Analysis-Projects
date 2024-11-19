@@ -43,10 +43,11 @@ Each project folder includes:
 - **Tools**: Python (Matplotlib)
 - **Key Insights**: Seasonal trends, top-performing categories.
 
-### 3. **Student Attitude and Behavior Dashboard**
-- **Description**: Power BI dashboard analyzing student preferences, stress levels, and academic performance.
-- **Tools**: Power BI
-- **Key Insights**: Gender-based performance, part-time job influence on financial status.
+### 3. **Zomato Rating Analysis**
+- **Description**: Analyzed Zomato restaurant ratings to understand customer preferences, identify factors affecting ratings, and trends in popular cuisines or locations.
+- **Tools**:  Python (Pandas, Matplotlib, Seaborn).
+- **Key Insights**: High ratings are linked to restaurant type, pricing, and customer reviews.
+Popular cuisines and high-rated restaurants are concentrated in specific locations.
 
 ---
 
